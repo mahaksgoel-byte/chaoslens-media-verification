@@ -1,0 +1,13 @@
+opencv-python
+numpy
+scipy
+mediapipe
+torch
+torchvision
+scikit-learn
+matplotlib
+tqdm
+kagglehub
+fastapi
+uvicorn
+python-multipart
